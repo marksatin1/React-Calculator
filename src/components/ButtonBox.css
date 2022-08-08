@@ -1,0 +1,28 @@
+.utility-button-box {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.basic-button-box {
+  width: 100%;
+  height: calc(100% - 160px);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-gap: 10px;
+}
+
+.history-box {
+  /* border: 2px solid black; */
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  border-bottom: 2px dashed var(--basicButton);
+  color: var(--equals);
+  font-size: 20px;
+  overflow-y: scroll;
+}
