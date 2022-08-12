@@ -1,4 +1,4 @@
-# REACT CALCULATOR
+# React Calculator
 
 ### Functionality To Add
 
