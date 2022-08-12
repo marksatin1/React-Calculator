@@ -1,4 +1,4 @@
-# React Calculator
+# React Scientific Calculator
 
 ### Functionality To Add
 
